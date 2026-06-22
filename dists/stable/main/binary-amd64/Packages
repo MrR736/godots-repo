@@ -1,8 +1,16 @@
 Package: godots
+Source: godots
 Version: 1.4.2.stable
 Architecture: amd64
 Maintainer: MrR736 <MrR736@users.github.com>
-Filename: pool/godots-1.4.2.stable.deb
+Depends: libc6 (>= 2.38)
+Filename: pool/g/godots/godots-1.4.2.stable.deb
 Size: 23198348
-SHA256: f5719e10f77944572a9f5a21e5c7b73e32bf283e0461badbae5b455c588803af
+MD5sum: 31b85312b5633c8fe4379dc73b09be73
+SHA1: 902d6eb0ea032793b2927bbf8480d1e9fa4d538f
+SHA256: 068ec0d507d149885539d283ad570b5834caa80e89b29123a3c3f5514967a1b0
+Section: devel
+Priority: optional
+Homepage: https://github.com/MakovWait/godots
 Description: Ultimate go-to hub for managing your Godot versions and projects!
+
